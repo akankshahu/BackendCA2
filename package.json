@@ -1,0 +1,25 @@
+{
+  "name": "cahere",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akankshahu/BackendCA2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akankshahu/BackendCA2/issues"
+  },
+  "homepage": "https://github.com/akankshahu/BackendCA2#readme"
+}
